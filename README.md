@@ -1,4 +1,4 @@
-practiva-django
+practica-django
 ===============
 
 Pràctica Django Sistemes Web
